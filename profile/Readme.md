@@ -10,7 +10,7 @@ Designed by developers for developers, it eliminates repetitive setup work and l
 The organization contains 3 repositories. Each of them has to be installed to run the application. You can find guidance on the installation in each repository or more detailed documentation here: [https://ngine.dev/documentation/installation].
 
 - Database repository (ngine-database)
-- BacKend repository (ngine-backend)
+- Backend repository (ngine-backend)
 - Frontend repository (ngine-frontend)
 
 ## Project status
