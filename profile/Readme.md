@@ -16,6 +16,7 @@ The organization contains 3 repositories. Each of them has to be installed to ru
 
 Once you have installed and run the application in local. Sign up by navigating to http://localhost:4200/unauthorised. Then you can start building your application.
 
+
 Please have a look to https://ngine.dev/documentation/layout-builder to learn how to build the global structure of your application and https://ngine.dev/documentation/layout-builder to learn how to integrate your features.
 
 ## Project status
