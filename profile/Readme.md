@@ -8,7 +8,9 @@ Designed by developers for developers, it eliminates repetitive setup work and l
 
 ## Get Started
 
-The organization contains 3 repositories. Each of them has to be installed to run the application. You can find guidance on the installation in each repository or more detailed documentation here: https://ngine.dev/documentation/installation.
+Full guide here: https://ngine.dev/documentation.
+
+The organization contains 3 repositories. Each of them has to be installed to run the application.
 
 - Database repository (ngine-database)
 - Backend repository (ngine-backend)
@@ -17,7 +19,7 @@ The organization contains 3 repositories. Each of them has to be installed to ru
 Once you have installed and run the application in local. Sign up by navigating to http://localhost:4200/unauthorised. Then you can start building your application.
 
 
-Please have a look to https://ngine.dev/documentation/layout-builder to learn how to build the global structure of your application and https://ngine.dev/documentation/layout-builder to learn how to integrate your features.
+Please have a look to https://ngine.dev/documentation/layout-builder to learn how to build the global structure of your application and https://ngine.dev/documentation/feature-integration to learn how to integrate your features.
 
 ## Project status
 
