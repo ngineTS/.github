@@ -7,7 +7,7 @@ Our open-source, community-driven framework combines Angular and NestJS to provi
 Designed by developers for developers, it eliminates repetitive setup work and lets teams focus on building business value instead of reinventing common infrastructure.
 
 ## Repositories
-The organization contains 3 repositories. Each of them has to be installed to run the application. You can find guidance on the installation in each repository or more detailed documentation here: [Ngine Installation](ngine.dev/documentation/installation).
+The organization contains 3 repositories. Each of them has to be installed to run the application. You can find guidance on the installation in each repository or more detailed documentation here: (ngine.dev/documentation/installation).
 
 - Database repository (ngine-database)
 - BacKend repository (ngine-backend)
