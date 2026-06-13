@@ -34,4 +34,5 @@ Please see `CONTRIBUTING.md` for guidance on how to get involved.
 
 Ngine is built and maintained as open source software under the MIT license. Our goal is to create tools that are accessible, transparent, and useful for everyone — from individual developers to companies building production systems.
 If this project helps you, consider supporting its development. Financial contributions directly fund maintenance, new features, and long-term sustainability — and help keep it independent and free for everyone.
+[Tipeee](https://es.tipeee.com/ngine)
 
