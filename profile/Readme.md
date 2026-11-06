@@ -2,7 +2,6 @@
 
 The CMS that unifies Angular and NestJS to reduce application development costs while helping you meet industry standards from day one.
 
-<br/><br/>
 With Ngine, you don't start building your application from scratch. The essentials are already there:
 
 🔐 Authentication — Secure access and sign-in and sign-up flows.
