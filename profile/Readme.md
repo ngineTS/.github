@@ -1,9 +1,7 @@
 # Ngine
 
 The CMS that unifies Angular and NestJS to reduce application development costs while helping you meet industry standards from day one.
-
 <br/><br/>
-
 With Ngine, you don't start building your application from scratch. The essentials are already there:
 
 🔐 Authentication — Secure access and sign-in and sign-up flows.
@@ -21,9 +19,7 @@ With Ngine, you don't start building your application from scratch. The essentia
 💳 Stripe payments — Let users subscribe or purchase items directly in your application.
 
 🧩 Layout builder — Build landing pages and menus without writing code.
-
 <br/><br/>
-
 So instead of spending time rebuilding the same infrastructure again and again, you can focus on what really matters: your business features.
 
 And this is where Ngine does things differently: you don't have to develop your business features inside a rigid application template. Build them standalone, independently from the rest of your application — then simply drag and drop them into your interface, like building with LEGO.
