@@ -1,25 +1,33 @@
 # Ngine
 
-Why spend weeks setting up architecture, authentication, security and coding standards before delivering your first feature?
+The CMS that unifies Angular and NestJS to reduce application development costs while helping you meet industry standards from day one.
 
-Our open-source, community-driven framework combines Angular and NestJS to provide a complete, production-ready foundation for modern web applications from day one.
+With Ngine, you don't start building your application from scratch. The essentials are already there:
 
-Designed by developers for developers, it eliminates repetitive setup work and lets teams focus on building business value instead of reinventing common infrastructure.
+🔐 Authentication — Secure access and sign-in and sign-up flows.
+👥 Authorization — Manage user roles and permissions across the different features/sections of your application.
+📁 File management — A complete interface to manage uploaded files.
+📊 Application analytics — Visualize your application's key KPIs.
+📢 Banners & communications — Create and schedule important messages for your users.
+📅 Common features — Calendars, text editors, and more.
+💳 Stripe payments — Let users subscribe or purchase items directly in your application.
+🧩 Layout builder — Build landing pages and menus without writing code.
+
+So instead of spending time rebuilding the same infrastructure again and again, you can focus on what really matters: your business features.
+
+And this is where Ngine does things differently: you don't have to develop your business features inside a rigid application template. Build them standalone, independently from the rest of your application — then simply drag and drop them into your interface, like building with LEGO.
+
+Complex development becomes simple, modular, and reusable.
+
+And the best part? Ngine is 100% free and open source.
+
+So... why start from zero? Give Ngine a try 😉
 
 ## Get Started
 
+Ngine can be installed with docker compose or locally with npm. The installation step are details inside ngine repository.
+
 Full guide here: https://ngine.dev/documentation.
-
-The organization contains 3 repositories. Each of them has to be installed to run the application.
-
-- Database repository (ngine-database)
-- Backend repository (ngine-backend)
-- Frontend repository (ngine-frontend)
-
-Once you have installed and run the application in local. Sign up by navigating to http://localhost:4200/unauthorised. Then you can start building your application.
-
-
-Please have a look to https://ngine.dev/documentation/layout-builder to learn how to build the global structure of your application and https://ngine.dev/documentation/feature-integration to learn how to integrate your features.
 
 ## Project status
 
